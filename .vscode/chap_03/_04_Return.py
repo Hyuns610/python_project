@@ -31,6 +31,7 @@ print(f"multiply rs : {multiply(5, 10)}")
 #     return True
 #   return False
 
+# v3
 def is_adult_age(age):
   return age >= 20
 
